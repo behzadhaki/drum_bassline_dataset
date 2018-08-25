@@ -10,7 +10,7 @@ https://github.com/behzadhaki/bassline_seq2seq
 
 2. In each release folder, there are 3 folders: A. harmonic, B. percussive, and C. percussive_monoloaded
 3. The "harmonic" folder contains the transcription of a bassline. The transcription is provided as a text file and a midi file. Note that the midi file isn't as accurate as the text file as the notes in the midi files have equal duration.
-4. The "percussive folder, contains a drum loop which has been loaded using an equal loudness filters. Moreover, this folder contains a symbolic representation which is based on time quantized onsets in 8 different frequency bands. The duration of the drum loops are not matched in the dataset. They need to be either cut short or be concatenated to match the length of the basslines.
+4. The "percussive folder, contains a drum loop which has been loaded using an equal loudness filters. Moreover, this folder contains a symbolic representation which is based on time quantized onsets in 8 different frequency bands (B1 to B8): 40-70Hz, 70-110Hz, 130-145Hz, 160-190Hz, 300-400Hz, 5-7kHz, 7-10kHz and 10-15kHz. The duration of the drum loops are not matched in the dataset. They need to be either cut short or be concatenated to match the length of the basslines.
 5. The "percussive_monoloded" folder contains the same drum loop but loaded without any processing. (UPDATE: Missing for some House samples)
 
 
