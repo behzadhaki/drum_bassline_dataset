@@ -1,5 +1,7 @@
 # drum_bassline_dataset
-A dataset of audio drum loops with accompanying basslines for two styles of music (House and Soca)
+A dataset of audio drum loops with accompanying basslines for two styles of music (House and Soca). These two datasets were used for training the following model:
+
+https://github.com/behzadhaki/bassline_seq2seq
 
 
 # Description of Files:
